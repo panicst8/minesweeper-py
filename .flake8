@@ -1,0 +1,8 @@
+[flake8]
+max-line-length = 110
+extend-ignore =
+    # See https://github.com/PyCQA/pycodestyle/issues/373
+    E203, W503
+ignore = E203, E266, E501, W503, F403, F401, W511, W293, W1201, W1202
+max-complexity" = 18
+select = B, C, E, F, W, T4, B9, B950

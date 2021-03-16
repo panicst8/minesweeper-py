@@ -1,0 +1,12 @@
+-r requirements.txt
+
+wheel
+bandit
+black
+flake8
+hypothesis
+mypy
+pre-commit
+pylint
+pytest
+rope
