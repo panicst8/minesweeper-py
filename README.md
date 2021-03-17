@@ -1,20 +1,20 @@
-<h1 align="center">Welcome to py-start 👋</h1>
+<h1 align="center">Welcome to minesweeper-py.py 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Python project starter seed
+> minesweeper written in python (with hopes to ml solver at some point)
 
 ## Install
 
 ```sh
-clone repo to new project name, change into new repo, run bash init.sh, once installs complete, activate virtual environment by running: source .venv/bin/activate
+clone repo, change into repo directory, run bash init.sh, once installs complete, activate virtual environment by running: source .venv/bin/activate
 ```
 
 ## Usage
 
 ```sh
-after setup should attach to repo by running the following: <insert instructions from init.sh here>
+python minesweeper-py.py
 ```
 
 ## Run tests
